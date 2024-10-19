@@ -6,7 +6,7 @@
   <img src="src/screenshots/weatherapp.png" alt="Home Screen" width="100%">
 </div>
 
-## Visit the [Weather App](https://college-project-q8jx.onrender.com/) website.
+## Visit the [Weather App](https://my-weather-app-qse9.onrender.com/) website.
 
 ## 🌦️ About WeatherApp
 
